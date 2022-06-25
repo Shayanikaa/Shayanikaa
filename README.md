@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shayanikaa" alt="shayanikaa" /></a> </p>
 
-- 🌱 I’m currently learning **React & problem solving**
+- 🌱 I’m currently learning **React Js & problem solving**
 
 - 📫 How to reach me **shayanikadas54@gmail.com**
 
